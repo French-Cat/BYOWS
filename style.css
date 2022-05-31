@@ -1,0 +1,15 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#pfp {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+button {
+    width: 60%;
+}

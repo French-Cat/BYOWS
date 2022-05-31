@@ -1,0 +1,17 @@
+{
+    "title": "My Website",
+    "icon": "https://placekitten.com/1000/1000",
+    "header": "My Social Links",
+    "fa_ver": "v6.1.1",
+    "pfp": "https://placekitten.com/500/500",
+    "links": [
+        {
+            "href": "/",
+            "fa_icon": "fa-solid fa-window-maximize"
+        },
+        {
+            "href": "/blog",
+            "fa_icon": "fa-solid fa-blog"
+        }
+    ]
+}
